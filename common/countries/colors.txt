@@ -655,3 +655,18 @@ PSR = {
 	color = rgb { 147 31 29 }
 	color_ui = rgb { 147 31 29 }
 }
+
+IZM = {
+	color = rgb { 64 252 255 }
+	color_ui = rgb { 64 252 255 }
+}
+
+IST = {
+	color = rgb { 245 216 0 }
+	color_ui = rgb { 245 216 0 }
+}
+
+ADA = {
+	color = rgb { 235 55 52 }
+	color_ui = rgb { 235 55 52 }
+}
